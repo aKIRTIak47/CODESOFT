@@ -130,7 +130,7 @@ This project is part of the CodeAlpha Python Internship program.
 
 ## 👤 Author
 
-**aKIRTIak47**
+**@KIRTI**
 
 Feel free to reach out with questions or suggestions!
 
