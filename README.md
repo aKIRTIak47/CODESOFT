@@ -2,9 +2,9 @@
 
 CodeAlpha Python Internship
 
-Task 1: To-Do List \n
-Task 2: Calculator \n
-Task 3: Password Generator\n
+Task 1: To-Do List <br>
+Task 2: Calculator <br>
+Task 3: Password Generator<br>
 
 Language: Python
 Development Environment: VS Code
