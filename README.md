@@ -1,6 +1,6 @@
 # CODESOFT
 
-CodeAlpha Python Internship
+<bold>CodeAlpha Python Internship</BOld>
 
 Task 1: To-Do List <br>
 Task 2: Calculator <br>
